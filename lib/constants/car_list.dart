@@ -1,0 +1,44 @@
+import 'package:car_connect/data/car/model/car_dto.dart';
+
+final List<CarDto> carList = [
+  CarDto(
+    'Citroen',
+    'Xsara',
+    '#F44336',
+    'WW25130',
+    DateTime(2016),
+    '1',
+    49.844506,
+    19.713190,
+  ),
+  CarDto(
+    'Opel',
+    'Astra',
+    '#2196F3',
+    'KR25130',
+    DateTime(2017),
+    '2',
+    49.804228,
+    19.049278,
+  ),
+  CarDto(
+    'BMW',
+    'X6',
+    '#000000',
+    'GD25130',
+    DateTime(2018),
+    '3',
+    48.735526,
+    21.252829,
+  ),
+  CarDto(
+    'Ford',
+    'Focus',
+    '#FFEB3B',
+    'WW12357',
+    DateTime(2011),
+    '4',
+    48.141613,
+    16.328806,
+  ),
+];
