@@ -1,5 +1,5 @@
-import 'package:car_connect/presentation/widgets/car_connect_app_bar/car_connect_app_bar.dart';
-import 'package:car_connect/presentation/widgets/loader/loader.dart';
+import 'package:car_list/presentation/widgets/car_connect_app_bar/car_connect_app_bar.dart';
+import 'package:car_list/presentation/widgets/loader/loader.dart';
 import 'package:flutter/material.dart';
 
 class LoadingPage extends StatelessWidget {

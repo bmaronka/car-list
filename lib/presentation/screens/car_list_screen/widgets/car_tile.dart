@@ -1,7 +1,7 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:car_connect/domain/car/model/car.dart';
-import 'package:car_connect/presentation/routing/router.gr.dart';
-import 'package:car_connect/style/dimens.dart';
+import 'package:car_list/domain/car/model/car.dart';
+import 'package:car_list/presentation/routing/router.gr.dart';
+import 'package:car_list/style/dimens.dart';
 import 'package:flutter/material.dart';
 
 class CarTile extends StatelessWidget {

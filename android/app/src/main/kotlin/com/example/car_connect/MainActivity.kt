@@ -1,4 +1,4 @@
-package com.example.car_connect
+package com.example.car_list
 
 import io.flutter.embedding.android.FlutterActivity
 

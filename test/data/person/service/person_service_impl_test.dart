@@ -1,7 +1,7 @@
-import 'package:car_connect/data/person/data_source/person_data_source.dart';
-import 'package:car_connect/data/person/model/person_dto.dart';
-import 'package:car_connect/data/person/service/person_service_impl.dart';
-import 'package:car_connect/domain/person/model/person.dart';
+import 'package:car_list/data/person/data_source/person_data_source.dart';
+import 'package:car_list/data/person/model/person_dto.dart';
+import 'package:car_list/data/person/service/person_service_impl.dart';
+import 'package:car_list/domain/person/model/person.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';

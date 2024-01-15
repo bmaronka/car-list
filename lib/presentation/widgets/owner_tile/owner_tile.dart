@@ -1,8 +1,8 @@
-import 'package:car_connect/domain/person/model/person.dart';
-import 'package:car_connect/generated/l10n.dart';
-import 'package:car_connect/style/dimens.dart';
-import 'package:car_connect/style/locales.dart';
-import 'package:car_connect/utils/date_time_formatter.dart';
+import 'package:car_list/domain/person/model/person.dart';
+import 'package:car_list/generated/l10n.dart';
+import 'package:car_list/style/dimens.dart';
+import 'package:car_list/style/locales.dart';
+import 'package:car_list/utils/date_time_formatter.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

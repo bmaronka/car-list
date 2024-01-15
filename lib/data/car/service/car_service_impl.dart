@@ -1,8 +1,8 @@
-import 'package:car_connect/constants/car_list.dart';
-import 'package:car_connect/data/car/data_source/car_data_source.dart';
-import 'package:car_connect/data/car/model/car_dto.dart';
-import 'package:car_connect/domain/car/model/car.dart';
-import 'package:car_connect/domain/car/service/car_service.dart';
+import 'package:car_list/constants/car_list.dart';
+import 'package:car_list/data/car/data_source/car_data_source.dart';
+import 'package:car_list/data/car/model/car_dto.dart';
+import 'package:car_list/domain/car/model/car.dart';
+import 'package:car_list/domain/car/service/car_service.dart';
 import 'package:injectable/injectable.dart';
 
 @LazySingleton(as: CarService)

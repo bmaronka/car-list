@@ -1,12 +1,12 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:car_connect/domain/car/model/car.dart';
-import 'package:car_connect/extensions/extension_mixin.dart';
-import 'package:car_connect/generated/l10n.dart';
-import 'package:car_connect/presentation/routing/router.gr.dart';
-import 'package:car_connect/presentation/screens/car_list_screen/cubit/car_list_cubit.dart';
-import 'package:car_connect/presentation/screens/car_list_screen/widgets/car_tile.dart';
-import 'package:car_connect/presentation/widgets/car_connect_app_bar/car_connect_app_bar.dart';
-import 'package:car_connect/style/dimens.dart';
+import 'package:car_list/domain/car/model/car.dart';
+import 'package:car_list/extensions/extension_mixin.dart';
+import 'package:car_list/generated/l10n.dart';
+import 'package:car_list/presentation/routing/router.gr.dart';
+import 'package:car_list/presentation/screens/car_list_screen/cubit/car_list_cubit.dart';
+import 'package:car_list/presentation/screens/car_list_screen/widgets/car_tile.dart';
+import 'package:car_list/presentation/widgets/car_connect_app_bar/car_connect_app_bar.dart';
+import 'package:car_list/style/dimens.dart';
 import 'package:flutter/material.dart';
 
 class CarListBody extends StatelessWidget {

@@ -1,5 +1,5 @@
-import 'package:car_connect/domain/locale/service/locale_service.dart';
-import 'package:car_connect/style/locales.dart';
+import 'package:car_list/domain/locale/service/locale_service.dart';
+import 'package:car_list/style/locales.dart';
 import 'package:injectable/injectable.dart';
 
 @injectable

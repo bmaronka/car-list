@@ -1,6 +1,6 @@
-import 'package:car_connect/domain/db_client/database_box_name.dart';
-import 'package:car_connect/domain/db_client/database_client.dart';
-import 'package:car_connect/domain/db_client/database_key.dart';
+import 'package:car_list/domain/db_client/database_box_name.dart';
+import 'package:car_list/domain/db_client/database_client.dart';
+import 'package:car_list/domain/db_client/database_key.dart';
 import 'package:injectable/injectable.dart';
 
 @singleton

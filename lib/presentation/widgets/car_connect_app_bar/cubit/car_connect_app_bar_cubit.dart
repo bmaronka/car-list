@@ -1,11 +1,11 @@
 import 'dart:async';
 
-import 'package:car_connect/domain/use_case/locale/get_locale_use_case.dart';
-import 'package:car_connect/domain/use_case/locale/notify_locale_changed_stream_use_case.dart';
-import 'package:car_connect/domain/use_case/locale/save_locale_use_case.dart';
-import 'package:car_connect/domain/use_case/locale/subscribe_locale_changed_stream_use_case.dart';
-import 'package:car_connect/style/locales.dart';
-import 'package:car_connect/utils/safety_cubit.dart';
+import 'package:car_list/domain/use_case/locale/get_locale_use_case.dart';
+import 'package:car_list/domain/use_case/locale/notify_locale_changed_stream_use_case.dart';
+import 'package:car_list/domain/use_case/locale/save_locale_use_case.dart';
+import 'package:car_list/domain/use_case/locale/subscribe_locale_changed_stream_use_case.dart';
+import 'package:car_list/style/locales.dart';
+import 'package:car_list/utils/safety_cubit.dart';
 import 'package:fimber_io/fimber_io.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:injectable/injectable.dart';

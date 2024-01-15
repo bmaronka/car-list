@@ -1,4 +1,4 @@
-import 'package:car_connect/extensions/extension_mixin.dart';
+import 'package:car_list/extensions/extension_mixin.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

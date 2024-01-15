@@ -1,10 +1,10 @@
 import 'dart:ui';
 
-import 'package:car_connect/domain/car/model/car.dart';
-import 'package:car_connect/domain/person/model/person.dart';
-import 'package:car_connect/domain/use_case/car/add_car_use_case.dart';
-import 'package:car_connect/domain/use_case/person/get_car_owners_use_case.dart';
-import 'package:car_connect/utils/safety_cubit.dart';
+import 'package:car_list/domain/car/model/car.dart';
+import 'package:car_list/domain/person/model/person.dart';
+import 'package:car_list/domain/use_case/car/add_car_use_case.dart';
+import 'package:car_list/domain/use_case/person/get_car_owners_use_case.dart';
+import 'package:car_list/utils/safety_cubit.dart';
 import 'package:fimber_io/fimber_io.dart';
 import 'package:flutter_osm_plugin/flutter_osm_plugin.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';

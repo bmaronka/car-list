@@ -1,6 +1,6 @@
-import 'package:car_connect/domain/person/model/person.dart';
-import 'package:car_connect/domain/use_case/person/get_car_owner_use_case.dart';
-import 'package:car_connect/utils/safety_cubit.dart';
+import 'package:car_list/domain/person/model/person.dart';
+import 'package:car_list/domain/use_case/person/get_car_owner_use_case.dart';
+import 'package:car_list/utils/safety_cubit.dart';
 import 'package:fimber_io/fimber_io.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:injectable/injectable.dart';

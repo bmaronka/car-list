@@ -1,5 +1,5 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:car_connect/presentation/routing/router.gr.dart';
+import 'package:car_list/presentation/routing/router.gr.dart';
 
 @AutoRouterConfig()
 class MainRouter extends $MainRouter {

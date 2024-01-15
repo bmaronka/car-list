@@ -1,4 +1,4 @@
-import 'package:car_connect/utils/date_time_formatter.dart';
+import 'package:car_list/utils/date_time_formatter.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:intl/date_symbol_data_local.dart';
 

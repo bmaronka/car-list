@@ -1,6 +1,6 @@
-import 'package:car_connect/domain/car/model/car.dart';
-import 'package:car_connect/domain/car/service/car_service.dart';
-import 'package:car_connect/domain/use_case/car/add_car_use_case.dart';
+import 'package:car_list/domain/car/model/car.dart';
+import 'package:car_list/domain/car/service/car_service.dart';
+import 'package:car_list/domain/use_case/car/add_car_use_case.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hexcolor/hexcolor.dart';
 import 'package:mockito/annotations.dart';

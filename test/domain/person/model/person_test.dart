@@ -1,5 +1,5 @@
-import 'package:car_connect/data/person/model/person_dto.dart';
-import 'package:car_connect/domain/person/model/person.dart';
+import 'package:car_list/data/person/model/person_dto.dart';
+import 'package:car_list/domain/person/model/person.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

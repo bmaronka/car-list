@@ -1,9 +1,9 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:car_connect/data/model/offline_error.dart';
-import 'package:car_connect/generated/l10n.dart';
-import 'package:car_connect/presentation/routing/router.gr.dart';
-import 'package:car_connect/presentation/widgets/car_connect_app_bar/car_connect_app_bar.dart';
-import 'package:car_connect/presentation/widgets/message_body/message_body.dart';
+import 'package:car_list/data/model/offline_error.dart';
+import 'package:car_list/generated/l10n.dart';
+import 'package:car_list/presentation/routing/router.gr.dart';
+import 'package:car_list/presentation/widgets/car_connect_app_bar/car_connect_app_bar.dart';
+import 'package:car_list/presentation/widgets/message_body/message_body.dart';
 import 'package:flutter/material.dart';
 
 class ErrorPage extends StatelessWidget {

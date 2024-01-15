@@ -1,4 +1,4 @@
-import 'package:car_connect/generated/assets/assets.gen.dart';
+import 'package:car_list/generated/assets/assets.gen.dart';
 import 'package:flutter/material.dart';
 
 const _polishLanguageCode = 'pl';

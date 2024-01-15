@@ -1,5 +1,5 @@
-import 'package:car_connect/data/person/model/person_dto.dart';
-import 'package:car_connect/generated/l10n.dart';
+import 'package:car_list/data/person/model/person_dto.dart';
+import 'package:car_list/generated/l10n.dart';
 import 'package:flutter/material.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 

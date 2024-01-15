@@ -1,5 +1,5 @@
-import 'package:car_connect/data/model/offline_error.dart';
-import 'package:car_connect/generated/l10n.dart';
+import 'package:car_list/data/model/offline_error.dart';
+import 'package:car_list/generated/l10n.dart';
 import 'package:flutter/material.dart';
 
 extension ThemeProvider on BuildContext {

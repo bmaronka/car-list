@@ -1,4 +1,4 @@
-import 'package:car_connect/data/person/model/person_dto.dart';
+import 'package:car_list/data/person/model/person_dto.dart';
 
 final List<PersonDto> personList = [
   PersonDto(

@@ -1,4 +1,4 @@
-import 'package:car_connect/data/model/offline_error.dart';
+import 'package:car_list/data/model/offline_error.dart';
 import 'package:dio/dio.dart';
 import 'package:internet_connection_checker/internet_connection_checker.dart';
 

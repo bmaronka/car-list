@@ -1,6 +1,6 @@
-import 'package:car_connect/data/locale/data_source/locale_db_data_source.dart';
-import 'package:car_connect/data/locale/service/locale_service_impl.dart';
-import 'package:car_connect/style/locales.dart';
+import 'package:car_list/data/locale/data_source/locale_db_data_source.dart';
+import 'package:car_list/data/locale/service/locale_service_impl.dart';
+import 'package:car_list/style/locales.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';

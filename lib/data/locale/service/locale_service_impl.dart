@@ -1,7 +1,7 @@
-import 'package:car_connect/data/locale/data_source/locale_db_data_source.dart';
-import 'package:car_connect/domain/locale/service/locale_service.dart';
-import 'package:car_connect/extensions/extension_mixin.dart';
-import 'package:car_connect/style/locales.dart';
+import 'package:car_list/data/locale/data_source/locale_db_data_source.dart';
+import 'package:car_list/domain/locale/service/locale_service.dart';
+import 'package:car_list/extensions/extension_mixin.dart';
+import 'package:car_list/style/locales.dart';
 import 'package:injectable/injectable.dart';
 
 @LazySingleton(as: LocaleService)

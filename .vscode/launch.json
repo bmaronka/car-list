@@ -5,20 +5,20 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "car_connect",
+      "name": "car_list",
       "request": "launch",
       "type": "dart",
       "program": "lib/main.dart"
     },
     {
-      "name": "car_connect (profile mode)",
+      "name": "car_list (profile mode)",
       "request": "launch",
       "type": "dart",
       "flutterMode": "profile",
       "program": "lib/main.dart"
     },
     {
-      "name": "car_connect (release mode)",
+      "name": "car_list (release mode)",
       "request": "launch",
       "type": "dart",
       "flutterMode": "release",

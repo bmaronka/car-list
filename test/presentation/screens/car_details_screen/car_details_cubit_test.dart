@@ -1,8 +1,8 @@
 import 'package:bloc_test/bloc_test.dart';
-import 'package:car_connect/data/model/offline_error.dart';
-import 'package:car_connect/domain/person/model/person.dart';
-import 'package:car_connect/domain/use_case/person/get_car_owner_use_case.dart';
-import 'package:car_connect/presentation/screens/car_details_screen/cubit/car_details_cubit.dart';
+import 'package:car_list/data/model/offline_error.dart';
+import 'package:car_list/domain/person/model/person.dart';
+import 'package:car_list/domain/use_case/person/get_car_owner_use_case.dart';
+import 'package:car_list/presentation/screens/car_details_screen/cubit/car_details_cubit.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/annotations.dart';

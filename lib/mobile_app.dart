@@ -1,8 +1,8 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:car_connect/generated/l10n.dart';
-import 'package:car_connect/injectable/injectable.dart';
-import 'package:car_connect/style/locales.dart';
-import 'package:car_connect/utils/hide_keyboard.dart';
+import 'package:car_list/generated/l10n.dart';
+import 'package:car_list/injectable/injectable.dart';
+import 'package:car_list/style/locales.dart';
+import 'package:car_list/utils/hide_keyboard.dart';
 import 'package:flex_color_scheme/flex_color_scheme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_device_type/flutter_device_type.dart';

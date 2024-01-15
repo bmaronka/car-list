@@ -1,5 +1,5 @@
-import 'package:car_connect/domain/db_client/database_client.dart';
-import 'package:car_connect/injectable/injectable.dart';
+import 'package:car_list/domain/db_client/database_client.dart';
+import 'package:car_list/injectable/injectable.dart';
 import 'package:hive/hive.dart';
 import 'package:path_provider/path_provider.dart' as path_provider;
 

@@ -1,7 +1,7 @@
-import 'package:car_connect/constants/person_list.dart';
-import 'package:car_connect/data/person/data_source/person_data_source.dart';
-import 'package:car_connect/domain/person/model/person.dart';
-import 'package:car_connect/domain/person/service/person_service.dart';
+import 'package:car_list/constants/person_list.dart';
+import 'package:car_list/data/person/data_source/person_data_source.dart';
+import 'package:car_list/domain/person/model/person.dart';
+import 'package:car_list/domain/person/service/person_service.dart';
 import 'package:injectable/injectable.dart';
 
 @LazySingleton(as: PersonService)

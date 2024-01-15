@@ -1,4 +1,4 @@
-import 'package:car_connect/data/model/offline_error.dart';
+import 'package:car_list/data/model/offline_error.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter_test/flutter_test.dart';
 

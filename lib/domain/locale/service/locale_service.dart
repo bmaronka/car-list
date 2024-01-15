@@ -1,4 +1,4 @@
-import 'package:car_connect/style/locales.dart';
+import 'package:car_list/style/locales.dart';
 
 abstract class LocaleService {
   Future<void> saveLocale(AppLocale locale);

@@ -1,5 +1,5 @@
-import 'package:car_connect/data/car/model/car_dto.dart';
-import 'package:car_connect/network_config/endpoints.dart';
+import 'package:car_list/data/car/model/car_dto.dart';
+import 'package:car_list/network_config/endpoints.dart';
 import 'package:dio/dio.dart';
 import 'package:injectable/injectable.dart';
 import 'package:retrofit/retrofit.dart';

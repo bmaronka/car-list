@@ -1,8 +1,8 @@
 import 'package:bloc_test/bloc_test.dart';
-import 'package:car_connect/data/model/offline_error.dart';
-import 'package:car_connect/domain/car/model/car.dart';
-import 'package:car_connect/domain/use_case/car/get_car_list_use_case.dart';
-import 'package:car_connect/presentation/screens/car_list_screen/cubit/car_list_cubit.dart';
+import 'package:car_list/data/model/offline_error.dart';
+import 'package:car_list/domain/car/model/car.dart';
+import 'package:car_list/domain/use_case/car/get_car_list_use_case.dart';
+import 'package:car_list/presentation/screens/car_list_screen/cubit/car_list_cubit.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hexcolor/hexcolor.dart';

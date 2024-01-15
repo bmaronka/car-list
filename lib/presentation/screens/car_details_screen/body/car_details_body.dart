@@ -1,11 +1,11 @@
-import 'package:car_connect/domain/car/model/car.dart';
-import 'package:car_connect/domain/person/model/person.dart';
-import 'package:car_connect/generated/l10n.dart';
-import 'package:car_connect/presentation/screens/car_details_screen/cubit/car_details_cubit.dart';
-import 'package:car_connect/presentation/widgets/car_connect_app_bar/car_connect_app_bar.dart';
-import 'package:car_connect/presentation/widgets/loader/loader.dart';
-import 'package:car_connect/presentation/widgets/owner_tile/owner_tile.dart';
-import 'package:car_connect/style/dimens.dart';
+import 'package:car_list/domain/car/model/car.dart';
+import 'package:car_list/domain/person/model/person.dart';
+import 'package:car_list/generated/l10n.dart';
+import 'package:car_list/presentation/screens/car_details_screen/cubit/car_details_cubit.dart';
+import 'package:car_list/presentation/widgets/car_connect_app_bar/car_connect_app_bar.dart';
+import 'package:car_list/presentation/widgets/loader/loader.dart';
+import 'package:car_list/presentation/widgets/owner_tile/owner_tile.dart';
+import 'package:car_list/style/dimens.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_osm_plugin/flutter_osm_plugin.dart';
 

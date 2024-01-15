@@ -1,10 +1,10 @@
 import 'package:bloc_test/bloc_test.dart';
-import 'package:car_connect/data/model/offline_error.dart';
-import 'package:car_connect/domain/car/model/car.dart';
-import 'package:car_connect/domain/person/model/person.dart';
-import 'package:car_connect/domain/use_case/car/add_car_use_case.dart';
-import 'package:car_connect/domain/use_case/person/get_car_owners_use_case.dart';
-import 'package:car_connect/presentation/screens/adding_car_page/cubit/adding_car_cubit.dart';
+import 'package:car_list/data/model/offline_error.dart';
+import 'package:car_list/domain/car/model/car.dart';
+import 'package:car_list/domain/person/model/person.dart';
+import 'package:car_list/domain/use_case/car/add_car_use_case.dart';
+import 'package:car_list/domain/use_case/person/get_car_owners_use_case.dart';
+import 'package:car_list/presentation/screens/adding_car_page/cubit/adding_car_cubit.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_osm_plugin/flutter_osm_plugin.dart';

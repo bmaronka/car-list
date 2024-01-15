@@ -1,4 +1,4 @@
-import 'package:car_connect/domain/db_client/database_client.dart';
+import 'package:car_list/domain/db_client/database_client.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:injectable/injectable.dart';
 

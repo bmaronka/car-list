@@ -1,6 +1,6 @@
-import 'package:car_connect/data/car/model/car_dto.dart';
-import 'package:car_connect/domain/car/model/car.dart';
-import 'package:car_connect/utils/date_time_formatter.dart';
+import 'package:car_list/data/car/model/car_dto.dart';
+import 'package:car_list/domain/car/model/car.dart';
+import 'package:car_list/utils/date_time_formatter.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hexcolor/hexcolor.dart';

@@ -9,13 +9,10 @@
 
 // ignore_for_file: no_leading_underscores_for_library_prefixes
 import 'package:auto_route/auto_route.dart' as _i4;
-import 'package:car_connect/domain/car/model/car.dart' as _i5;
-import 'package:car_connect/presentation/screens/adding_car_page/adding_car_screen.dart'
-    as _i1;
-import 'package:car_connect/presentation/screens/car_details_screen/car_details_screen.dart'
-    as _i2;
-import 'package:car_connect/presentation/screens/car_list_screen/car_list_screen.dart'
-    as _i3;
+import 'package:car_list/domain/car/model/car.dart' as _i5;
+import 'package:car_list/presentation/screens/adding_car_page/adding_car_screen.dart' as _i1;
+import 'package:car_list/presentation/screens/car_details_screen/car_details_screen.dart' as _i2;
+import 'package:car_list/presentation/screens/car_list_screen/car_list_screen.dart' as _i3;
 import 'package:flutter/material.dart' as _i6;
 
 abstract class $MainRouter extends _i4.RootStackRouter {
@@ -80,8 +77,7 @@ class CarDetailsRoute extends _i4.PageRouteInfo<CarDetailsRouteArgs> {
 
   static const String name = 'CarDetailsRoute';
 
-  static const _i4.PageInfo<CarDetailsRouteArgs> page =
-      _i4.PageInfo<CarDetailsRouteArgs>(name);
+  static const _i4.PageInfo<CarDetailsRouteArgs> page = _i4.PageInfo<CarDetailsRouteArgs>(name);
 }
 
 class CarDetailsRouteArgs {
